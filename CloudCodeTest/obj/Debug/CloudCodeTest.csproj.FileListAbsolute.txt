@@ -1,0 +1,11 @@
+F:\lj\net\CloudCode\CloudCodeTest\bin\Debug\CloudCodeTest.exe.config
+F:\lj\net\CloudCode\CloudCodeTest\bin\Debug\CloudCodeTest.exe
+F:\lj\net\CloudCode\CloudCodeTest\bin\Debug\CloudCodeTest.pdb
+F:\lj\net\CloudCode\CloudCodeTest\bin\Debug\CloudCodeOCR.dll
+F:\lj\net\CloudCode\CloudCodeTest\bin\Debug\CloudCodeOCR.pdb
+F:\lj\net\CloudCode\CloudCodeTest\obj\Debug\CloudCodeTest.csprojResolveAssemblyReference.cache
+F:\lj\net\CloudCode\CloudCodeTest\obj\Debug\CloudCodeTest.Form1.resources
+F:\lj\net\CloudCode\CloudCodeTest\obj\Debug\CloudCodeTest.Properties.Resources.resources
+F:\lj\net\CloudCode\CloudCodeTest\obj\Debug\CloudCodeTest.csproj.GenerateResource.Cache
+F:\lj\net\CloudCode\CloudCodeTest\obj\Debug\CloudCodeTest.exe
+F:\lj\net\CloudCode\CloudCodeTest\obj\Debug\CloudCodeTest.pdb

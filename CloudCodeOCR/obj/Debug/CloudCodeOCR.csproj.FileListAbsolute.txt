@@ -1,0 +1,5 @@
+F:\lj\net\CloudCode\CloudCodeOCR\bin\Debug\CloudCodeOCR.dll
+F:\lj\net\CloudCode\CloudCodeOCR\bin\Debug\CloudCodeOCR.pdb
+F:\lj\net\CloudCode\CloudCodeOCR\obj\Debug\CloudCodeOCR.csprojResolveAssemblyReference.cache
+F:\lj\net\CloudCode\CloudCodeOCR\obj\Debug\CloudCodeOCR.dll
+F:\lj\net\CloudCode\CloudCodeOCR\obj\Debug\CloudCodeOCR.pdb
